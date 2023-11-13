@@ -15,3 +15,4 @@ Exploring usage of the most common React Router hooks and features:
 - establishing the cancel button using "navigation" hook
 - enabling submissions using client side routing (search form)
 - implementing the "useSubmit" hook for submitting the search form filter on any change in the search tab
+- managing the history stack using "replace" in useSubmit hook
