@@ -17,3 +17,4 @@ Exploring usage of the most common React Router hooks and features:
 - implementing the "useSubmit" hook for submitting the search form filter on any change in the search tab
 - managing the history stack using "replace" in useSubmit hook
 - applying the "useFetcher" hook to communicate with loaders and actions without causing a navigation
+- using the Optimistic UI technic that helps the user see the change before it actually is registered
