@@ -11,3 +11,4 @@ Exploring usage of the most common React Router hooks and features:
 - creating new items using client side routing - an action in our root route, wiring it up to the route config, and changing HTML "form" to a React Router "Form".
 - using "params" that are passed to the loader as keys that match the dynamic (:key) segment
 - setting up CRUD using React Router
+- setting up the default children route by using { index:true } instead of { path: "" }.
