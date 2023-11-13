@@ -12,3 +12,6 @@ Exploring usage of the most common React Router hooks and features:
 - using "params" that are passed to the loader as keys that match the dynamic (:key) segment
 - setting up CRUD using React Router
 - setting up the default children route by using { index:true } instead of { path: "" }.
+- establishing the cancel button using "navigation" hook
+- enabling submissions using client side routing (search form)
+- implementing the "useSubmit" hook for submitting the search form filter on any change in the search tab
